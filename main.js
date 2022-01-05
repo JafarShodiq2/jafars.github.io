@@ -1,0 +1,1 @@
+alert('Cara Membuat Alert, Confirm dan Prompt Dengan JavaScript');
